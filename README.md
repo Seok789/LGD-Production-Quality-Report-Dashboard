@@ -1,6 +1,7 @@
 # LGD-Production-Quality-Report-Dashboard
 
-# 근거 기반 생산·품질 업무 보고서 웹 대시보드
+<img width="1369" height="1050" alt="스크린샷 2026-11-24 오후 2 32 23" src="https://github.com/user-attachments/assets/b43524ee-f996-4706-b628-a9b08eddbf42" />
+
 
 **날짜:** 09월 14일
 
